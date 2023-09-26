@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my JS BattleShips project
+- 🌱 I’m currently learning JavaScript/TypeScript
+- 📫 How to reach me: p.wawrzenczyk1@gmail.com
+
 <!--
 **StaryAlgida/StaryAlgida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
