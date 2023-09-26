@@ -7,6 +7,10 @@
 
 ## My skills
 
+<div style="display:flex; gap:50px;">
+
+<div>
+
 ### Languages
 
 | Language   | Level of knowledge                          |
@@ -17,7 +21,10 @@
 | HTML/CSS   | <span style="color:#14d32b;">Good</span> 💪 |
 | C/C++      | <span style="color:yellow;">Basic</span> 👍 |
 
-### Frameworks/Librarys
+</div>
+<div>
+
+### Frameworks/Libraries
 
 #### Front-end
 
@@ -29,6 +36,8 @@
 
 - Flask
 - Django - `have to learn`
+</div>
+</div>
 
 ## My projects on GitHub Pages
 
