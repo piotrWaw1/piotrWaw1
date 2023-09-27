@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/piotr-wawrzeńczyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/piotr-wawrzeńczyk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piotr-wawrze%C5%84czyk-6aa15a262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/piotr-wawrzeńczyk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=staryalgida&show_icons=true&locale=en&layout=compact" alt="staryalgida" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staryalgida&show_icons=true&locale=en" alt="staryalgida" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staryalgida&" alt="staryalgida" /></p>
