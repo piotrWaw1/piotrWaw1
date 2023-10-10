@@ -25,8 +25,8 @@
 
 | Webpack | React |
 | ------------- | ------------- |
-| [TOP-Weather-App](https://staryalgida.github.io/TOP-Weather-App/)/TS  | [CV-App](http://StaryAlgida.github.io/CV-App)/TS  |
-| [TOP-Todo-List](https://staryalgida.github.io/TOP-Todo-List/)/TS  |   |
-| [TOP-Tic_Tac_Toe](https://staryalgida.github.io/TOP-Tic_Tac_Toe/)/JS  |   |
-| [TOP-Library](https://staryalgida.github.io/TOP-Library/)/JS |  |
+| [TOP-Weather-App](https://staryalgida.github.io/TOP-Weather-App/)  | [CV-App](http://StaryAlgida.github.io/CV-App)  |
+| [TOP-Todo-List](https://staryalgida.github.io/TOP-Todo-List/)  |   |
+| [TOP-Tic_Tac_Toe](https://staryalgida.github.io/TOP-Tic_Tac_Toe/)  |   |
+| [TOP-Library](https://staryalgida.github.io/TOP-Library/) |  |
 
