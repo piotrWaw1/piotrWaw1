@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piotr Warzeńczyk</h1>
+<h1 align="center">Hi 👋, I'm Piotr Wawrzeńczyk</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on **JS BattleShips project**
