@@ -25,8 +25,8 @@
 
 | Webpack | React |
 | ------------- | ------------- |
-| [TOP-Weather-App](https://staryalgida.github.io/TOP-Weather-App/)  | [CV-App](http://StaryAlgida.github.io/CV-App)  |
-| [TOP-Todo-List](https://staryalgida.github.io/TOP-Todo-List/)      | [TOP-Memory-Card](https://staryalgida.github.io/TOP-Memory-Card/) |
-| [TOP-Tic_Tac_Toe](https://staryalgida.github.io/TOP-Tic_Tac_Toe/)  |   |
-| [TOP-Library](https://staryalgida.github.io/TOP-Library/) |  |
+| [TOP-Weather-App](https://piotrwaw1.github.io/TOP-Weather-App/)  | [CV-App](http://piotrwaw1.github.io/CV-App)  |
+| [TOP-Todo-List](https://piotrwaw1.github.io/TOP-Todo-List/)      | [TOP-Memory-Card](https://piotrwaw1.github.io/TOP-Memory-Card/) |
+| [TOP-Tic_Tac_Toe](https://piotrwaw1.github.io/TOP-Tic_Tac_Toe/)  |   |
+| [TOP-Library](https://piotrwaw1.github.io/TOP-Library/) |  |
 
