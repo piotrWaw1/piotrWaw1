@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piotr Wawrzeńczyk</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **photo-app**
-
 - 🌱 I’m currently learning **JavaScript/TypeScript, React, Django**
 
 - 📫 How to reach me **p.wawrzenczyk1@gmail.com**
