@@ -23,6 +23,6 @@
 | ------------- | ------------- | ------------- | 
 | [TOP-Weather-App](https://piotrwaw1.github.io/TOP-Weather-App/)  | [CV-App](http://piotrwaw1.github.io/CV-App)  | [PayMe](https://payme-wfdv.onrender.com)  |
 | [TOP-Todo-List](https://piotrwaw1.github.io/TOP-Todo-List/)      | [TOP-Memory-Card](https://piotrwaw1.github.io/TOP-Memory-Card/) |   |
-| [TOP-Tic_Tac_Toe](https://piotrwaw1.github.io/TOP-Tic_Tac_Toe/)  |   |   |
+| [TOP-Tic_Tac_Toe](https://piotrwaw1.github.io/TOP-Tic_Tac_Toe/)  | [Quiz](https://quiz-3p1k.onrender.com)  |   |
 | [TOP-Library](https://piotrwaw1.github.io/TOP-Library/) |  |   |
 
