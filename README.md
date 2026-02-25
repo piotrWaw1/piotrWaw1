@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **p.wawrzenczyk1@gmail.com**
 
--🌏 My side **https://www.p-wawrzenczyk.dev/**
+- 🌏 My side **https://www.p-wawrzenczyk.dev/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
